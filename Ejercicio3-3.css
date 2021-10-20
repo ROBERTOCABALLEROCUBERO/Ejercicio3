@@ -1,0 +1,27 @@
+  .portada{
+    text-align: center;
+  } 
+   .autor{
+    text-align: center;
+    font-weight: bold;
+font-size:medium
+
+   }
+   .titulo{
+text-align: center;
+font-weight: bold;
+font-size: large;
+    }
+    a:link, a:visited {
+        color: rgb(128, 105, 0);
+        text-decoration: none;
+        }
+        a:hover, a:active {
+        color: rgb(0, 217, 255);
+        text-decoration: none;
+        }
+
+            p:hover {
+                font-size:large;
+                color: coral;
+                }
